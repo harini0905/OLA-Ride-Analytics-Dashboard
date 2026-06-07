@@ -136,28 +136,28 @@ After running the command, Streamlit will automatically open in your default bro
 # Dashboard Screenshots
 
 ## Dashboard Home
-![Dashboard Home](Streamlit Screenshots/Dashboard_Home.png)
+![Dashboard Home](Streamlit_Screenshots/Dashboard_Home.png)
 
 ## Revenue By Vehicle Type
-![Revenue By Vehicle Type](Streamlit Screenshots/Revenue_By_Vehicle_Type.png)
+![Revenue By Vehicle Type](Streamlit_Screenshots/Revenue_By_Vehicle_Type.png)
 
 ## Booking Status Distribution
-![Booking Status Distribution](Streamlit Screenshots/Booking_Status_Distribution.png)
+![Booking Status Distribution](Streamlit_Screenshots/Booking_Status_Distribution.png)
 
 ## Customer Rating Analysis
-![Customer Rating Analysis](Streamlit Screenshots/Customer_Rating_Analysis.png)
+![Customer Rating Analysis](Streamlit_Screenshots/Customer_Rating_Analysis.png)
 
 ## Payment Method Distribution
-![Payment Method Distribution](Streamlit Screenshots/Payment_Method_Distribution.png)
+![Payment Method Distribution](Streamlit_Screenshots/Payment_Method_Distribution.png)
 
 ## Outlier Analysis
-![Outlier Analysis](Streamlit Screenshots/Outlier_Analysis.png)
+![Outlier Analysis](Streamlit_Screenshots/Outlier_Analysis.png)
 
 ## Outlier Summary
-![Outlier Summary](Screenshots/Outlier_Summary.png)
+![Outlier Summary](Streamlit_Screenshots/Outlier_Summary.png)
 
 ## SQL Query Results
-![SQL Query Results](Screenshots/SQL_Query_Results.png)
+![SQL Query Results](Streamlit_Screenshots/SQL_Query_Results.png)
 
 
 ---
