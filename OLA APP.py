@@ -1,4 +1,3 @@
-st.title("🚀 TEST UPDATE CHECK")
 #Import required packages
 import streamlit as st
 import pandas as pd
@@ -106,7 +105,6 @@ if page == "Project Introduction":
     - SQLite3
     - SQL
     - Streamlit
-    - Plotly
     """)
 
 # =========================================================
