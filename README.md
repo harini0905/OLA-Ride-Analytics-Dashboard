@@ -15,11 +15,11 @@ The system helps identify:
 - Customer and driver rating trends
 - Payment method preferences
 
-### Interactive dashboards and SQL-based analysis are used to support data-driven decision-making and improve ride-sharing operations.
----
+
 ### 🔴 Live Streamlit Dashboard
 Explore the deployed dashboard here:  
 👉 https://ola-ride-analytics-dashboard.streamlit.app/
+
 ---
 
 # Features
@@ -93,7 +93,7 @@ OLA RIDE PROJECT/
 ├── Report/
 │   └── OLA_Ride_Insights_Report.pdf
 │
-├── Screenshots/
+├── Streamlit Screenshots/
 │   ├── Dashboard_Home.png
 │   ├── Revenue_By_Vehicle_Type.png
 │   ├── Booking_Status_Distribution.png
@@ -136,22 +136,22 @@ After running the command, Streamlit will automatically open in your default bro
 # Dashboard Screenshots
 
 ## Dashboard Home
-![Dashboard Home](Screenshots/Dashboard_Home.png)
+![Dashboard Home](Streamlit Screenshots/Dashboard_Home.png)
 
 ## Revenue By Vehicle Type
-![Revenue By Vehicle Type](Screenshots/Revenue_By_Vehicle_Type.png)
+![Revenue By Vehicle Type](Streamlit Screenshots/Revenue_By_Vehicle_Type.png)
 
 ## Booking Status Distribution
-![Booking Status Distribution](Screenshots/Booking_Status_Distribution.png)
+![Booking Status Distribution](Streamlit Screenshots/Booking_Status_Distribution.png)
 
 ## Customer Rating Analysis
-![Customer Rating Analysis](Screenshots/Customer_Rating_Analysis.png)
+![Customer Rating Analysis](Streamlit Screenshots/Customer_Rating_Analysis.png)
 
 ## Payment Method Distribution
-![Payment Method Distribution](Screenshots/Payment_Method_Distribution.png)
+![Payment Method Distribution](Streamlit Screenshots/Payment_Method_Distribution.png)
 
 ## Outlier Analysis
-![Outlier Analysis](Screenshots/Outlier_Analysis.png)
+![Outlier Analysis](Streamlit Screenshots/Outlier_Analysis.png)
 
 ## Outlier Summary
 ![Outlier Summary](Screenshots/Outlier_Summary.png)
