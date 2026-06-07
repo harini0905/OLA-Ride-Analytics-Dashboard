@@ -4,6 +4,7 @@
 
 OLA Ride Insights is a data analytics project developed to analyze ride-booking data and generate actionable business insights. The project uses SQLite, SQL, Python and Streamlit to perform data analysis, visualization, and interactive reporting.
 
+
 The system helps identify:
 
 - Ride booking trends
@@ -14,7 +15,11 @@ The system helps identify:
 - Customer and driver rating trends
 - Payment method preferences
 
-## Interactive dashboards and SQL-based analysis are used to support data-driven decision-making and improve ride-sharing operations.
+### Interactive dashboards and SQL-based analysis are used to support data-driven decision-making and improve ride-sharing operations.
+---
+### 🔴 Live Streamlit Dashboard
+Explore the deployed dashboard here:  
+👉 https://ola-ride-analytics-dashboard.streamlit.app/
 ---
 
 # Features
@@ -80,26 +85,22 @@ The cleaned dataset was stored in SQLite for efficient querying and analysis.
 OLA RIDE PROJECT/
 │
 ├── OLA APP.py
+├── requirements.txt
 ├── README.md
+├── .gitignore   
 ├── OLA LOGO.png
-├── OLA RIDE ANALYSIS.ipynb
-├── Python Sql Connector.ipynb
-├── olaride_db.sqlite
-├── OLA_DataSet.xlsx
-├── ola_ride_cleaned_data.xlsx
 │
 ├── Report/
 │   └── OLA_Ride_Insights_Report.pdf
 │
-└── Screenshots/
-    ├── Dashboard_Home.png
-    ├── Revenue_By_Vehicle_Type.png
-    ├── Booking_Status_Distribution.png
-    ├── Customer_Rating_Analysis.png
-    ├── Payment_Method_Distribution.png
-    ├── Outlier_Analysis.png
-    ├── Outlier_Summary.png
-    ├── SQL_Query_Results.png
+├── Screenshots/
+│   ├── Dashboard_Home.png
+│   ├── Revenue_By_Vehicle_Type.png
+│   ├── Booking_Status_Distribution.png
+│   ├── Customer_Rating_Analysis.png
+│   ├── Payment_Method_Distribution.png
+│   ├── Outlier_Analysis.png
+│   ├── SQL_Query_Results.png
     
 ```
 
